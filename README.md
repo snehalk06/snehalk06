@@ -36,7 +36,14 @@
 
 ###
 
-<p align="left">💻 Java Developer in the making<br><br>🔹 Learning Data Structures & Algorithms<br>🔹 Exploring Java and Backend Development<br>🔹 Building projects and improving problem-solving skills<br>🔹 Open to learning and collaboration</p>
+<p align="left">💻 Skilled in C, C++, Java, and Java DSA
+🗄️ Exploring MySQL for database management
+🌐 Building responsive web applications with HTML, JavaScript, and React.js
+🧩 Enthusiastic about problem-solving, algorithms, and software development
+📚 Always learning new technologies and creating impactful projects
+🤝 Open to collaboration, innovation, and exciting opportunities
+
+✨ Turning ideas into code, one project at a time! 🚀🔥</p>
 
 ###
 
