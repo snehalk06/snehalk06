@@ -35,7 +35,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
+<pre>
 <p align="left">💻 Skilled in C, C++, Java, and Java DSA
 🗄️ Exploring MySQL for database management
 🌐 Building responsive web applications with HTML, JavaScript, and React.js
@@ -44,7 +44,7 @@
 🤝 Open to collaboration, innovation, and exciting opportunities
 
 ✨ Turning ideas into code, one project at a time! 🚀🔥</p>
-
+</pre>
 ###
 
 <h3 align="left">🚀 Languages</h3>
